@@ -1,3 +1,3 @@
 - Contents
   - [Chapter 1 Introduction](chapter1/chapter1.md)
-  - [Chapter 7 Introduction](chapter7/chapter7.md)
+  - [Chapter 2 Dirac's four axioms of Quantum Mechanics](chapter2/chapter2.md)
