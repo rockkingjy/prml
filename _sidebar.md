@@ -1,3 +1,7 @@
 - Contents
-  - [Chapter 1 Introduction](chapter1/chapter1.md)
-  - [Chapter 2 Dirac's four axioms of Quantum Mechanics](chapter2/chapter2.md)
+  - [Chapter 1 Paradigm shifts](chapter1.md)
+  - [Chapter 2 Dirac's four axioms](chapter2.md)
+  - [Chapter 3 Dirac's three rules of manipulations: Representations, Transformations and Pictures](chapter3.md)
+  - [Chapter 4 Dirac's theory of electron](chapter4.md)  
+  - [Chapter 5 Dirac Picture](chapter5.md)  
+  - [Chapter 6 Dirac second quantization method](chapter6.md)
